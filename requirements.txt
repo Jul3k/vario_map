@@ -4,3 +4,4 @@ matplotlib
 ipyleaflet
 scikit-image
 Pillow
+voila
